@@ -1,0 +1,272 @@
+[
+    {
+        "id": "4E19AC8B6F8B4F6689FC25654DA6942C",
+        "price": 199,
+        "title": "The Ultimate Guide to Game Development with Unity (Official)",
+        "category_name": "Game Development",
+        "category_id": "04",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 4811,
+        "duration": "20 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/1328572_b05d_5.jpg",
+        "details": "The gaming industry is a $200 billion industry worldwide. By 2025, that number is expected to be near $300 billion. With Unity being the most widely used engine to develop games across multiple platforms, there has never been a better time to get into the field. As you will learn, the types of games you can create with Unity and C# are limitless. Game development makes a great hobby, allowing you to learn a new skill and play your game with family and friends. It is also an exciting and rewarding career, where plenty of successful developers, including myself, have learned the fundamentals of game development through courses like this, and not in the traditional classroom setting. Every great game starts somewhere, so why not make it yours? While people often find coding or making games intimidating, this Unity course utilizes a unique teaching method that will allow you to gain a thorough understanding of concepts while you develop your own games. Thanks to the Unity community, you’ll be able to connect with other developers, work together on new projects, and make some incredible games!"
+    },
+    {
+        "id": "F88328672F7041F69E21793E22CABD41",
+        "price": 299,
+        "title": "Develop Minecraft Plugins (Java)",
+        "category_name": "Game Development",
+        "category_id": "04",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "total_view": 880,
+        "duration": "42 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/1093774_a6f1_4.jpg",
+        "details": "Here, you will learn all about Minecraft plugins! The first tutorial is the installation and description of what you will need, and we'll work together by starting simple and by slowly developing your plugins you will become a Java god! You will start with basic lectures, teaching you how to setup your first plugin, create commands and manage events, and then move onto more tricky aspects, such as the idea of GUIs or packets. Whether you know Java or not, you will learn a lot from this course. I will be covering Java from basic to advanced throughout the course and it is a skill that you can carry all throughout life. When using it with Minecraft, you can create some amazing things; for instance, you could be developing for your own server, another server, or even make money from uploading your plugins online for people to purchase. At the end of this carefully constructed course you will be confident in creating plugins for Spigot, Bukkit & Bungee. I have been dealing with Java for several years and have been working with Minecraft for the majority of those. I have developed plugins ranging from Spigot to Bungee and earned a lot of money from it. I am a natural teacher and so I can assure you that you will be in safe hands! Once you have completed the course (or even each lecture), you will be able to create your own plugins based on what you have learned. I first released this course in 2016. It's now 2022. I've been updating this for the past 6 years and have no plans to stop. Hope to see you join us and take control of your future!"
+    },
+    {
+        "id": "90B7CD5D45874B70AFAC58506A80FE9B",
+        "price": 99,
+        "title": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+        "category_name": "Game Development",
+        "category_id": "04",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 1818,
+        "duration": "32 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/657932_c7e0_6.jpg",
+        "details": "Ready to make games in the amazing world of Unreal Engine 5? This 'critically-acclaimed' and 'insanely successful' Unreal Engine course was created in collaboration with Epic Games. The majority of the course has been fully updated and remastered to Unreal Engine 5. Existing students get all the new material for free. Learn how to create and mod video games using Unreal Engine 5, even if you're a complete beginner. Unreal is a free-to-use game development engine used by AAA studios and indie developers worldwide. It is a massive and powerful beast, but we break it down step-by-step so you can tame it. We start super simple so no prior experience of Unreal or coding is needed! With our online tutorials, you'll be amazed at what you can achieve. We believe project-based learning is the best way to learn Unreal Engine, so you’ll create 5 Unreal games! Already know Unreal and want to learn VR or Multiplayer? Check out our other Unreal courses, just look for the green leaf for our other world-class Unreal courses."
+    },
+    {
+        "id": "A989E17FB1B7468C934B4A953597630E",
+        "price": 199,
+        "title": "ASP.Net Web Forms Live Project",
+        "category_name": "Programming Languages",
+        "category_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 7873,
+        "duration": "20 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/102132_62b7_8.jpg",
+        "details": "   This course is all about how to interact with the client, understand the requirements, break requirements into objects, create database design by identifying the relationships among objects, architect  the project, implement business objects, data access layer, business logic layer and presentation layer. You will also learn how to secure, compile and publish any web application. "
+    },
+    {
+        "id": "757C3E7F92A8461DAD1573FC66CC5208",
+        "price": 99,
+        "title": "WordPress 2022: The Complete WordPress Website Course",
+        "category_name": "No-Code Development",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 7188,
+        "duration": "14 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/1455618_592a_4.jpg",
+        "details": "Over 455 million users use WordPress making it the number one website content management system (CMS) worldwide. This course explains the most basic features of WordPress and also deals with advanced web design concepts. By the end of this WordPress online training, you will have enough knowledge to create any Professional WordPress website of your own, and you will be able to create websites for your clients. WordPress is the perfect tool for creating a fully customized website for any purpose. Whether you want to create a blog,  a personal portfolio, a corporate business site, an eCommerce site, or a business website to sell your products and services, you can do it with WordPress. While it's never been easier to build a website, many people get lost when it comes to creating a stylish WordPress website. By following this Complete WordPress course, you will be able to build powerful WordPress websites with different plugins and get ahead on your journey as an entrepreneur. "
+    },
+    {
+        "id": "28B2E56848BF4EEF8C889B361A08F4C1",
+        "price": 299,
+        "title": "1 Hour CSS",
+        "category_name": "Web Development",
+        "category_id": "01",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 1488,
+        "duration": "1 Hour",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/64605_e18f_5.jpg",
+        "details": "Have you ever wanted to learn to code but don't know where to start? Learning how to code can get you a better job and lead to a better future. In this tutorial series you get to learn about CSS. CSS is the number design language for the web. CSS is easy to learn and it is used in most web development today. This course is a 1 hour course of action packed material. By the end of it you will have a firm understanding of the concepts of CSS. The best part is that this is for complete beginners! Coding is a fantastic career to get into and this is the first course you should take. All web developers start with CSS and it is by far the easiest language to learn. CSS stands for cascading style sheets and it is the what makes websites look good. Before CSS, websites didn't look good at all. Just think of all of the things you can do in 1 hour and imagine learning a whole new skill. That's why these 1 hour lessons are so valuable. Take a look at the reviews, they speak for themselves. What are you waiting for, enroll today."
+    },
+    {
+        "id": "51A88B5A8B9A48B099519CD5F086A832",
+        "price": 399,
+        "title": "Learn C# Programming (In Ten Easy Steps)",
+        "category_name": "Programming Languages",
+        "category_id": "03",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 654,
+        "duration": "32 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/14346_9972_8.jpg",
+        "details": "Learn C# Programming (in ten easy steps) [Version 2] is suitable for beginner programmers or anyone with experience in another programming language who needs to learn C# from the ground up. Step-by-step it explains how to write C# code to develop Windows applications using either the free Visual Studio Community Edition or a commercial edition of Microsoft Visual Studio (it even explains how to write C# programs using free tools for OS X). This is the completely revised and updated second version of this course. C# is one of the most widely used an important of all modern programming languages. If you need to learn C# quickly and painlessly, this is the perfect course. You will begin by learning the core features of programming – variables, constants, functions and data types. You will move on rapidly to learn about Object Orientation and the more advanced features of C# and the .NET framework such as file-handling, data-streaming, dealing with exceptions (errors) and overriding methods. Even if you start out as a complete beginner, by the end of this course you will have built a really solid foundation of programming knowledge and skills. All the source code of sample projects is provided ready for you to download, run and modify. The course also includes an eBook that provides even more information on the topics being discussed. And there are also interactive quizzes to test your understanding of each major topic. The course instructor, Huw Collingbourne, is Director of Technology with SapphireSteel Software, a company that specialises in Visual Studio development tools (written in C#) for professional programmers. Learn C# Programming (in ten easy steps) is the fastest and simplest way to help you make the move from coding novice to professional programmer. The first version of this course was launched in 2012. The current version has been completely re-made and expanded with numerous new lessons. As an added bonus, the complete version 1 of the course (almost 4 additional hours of video instruction) is also included as a free download."
+    },
+    {
+        "id": "AED1DEF6DA854E9A9C754621CFF278A5",
+        "price": 499,
+        "title": "Liferay for Beginners Create Your Website Without Coding",
+        "category_name": "No-Code Development",
+        "category_id": "06",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 2788,
+        "duration": "12 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/2099870_5406.jpg",
+        "details": "This course is for absolute beginners of Liferay. In this course you will be learning below items: Creating your Webiste without the need to code anything. Liferay Overview. Liferay Features. Understanding Liferay Architecture. Understanding Web Server (Tomcat). Prerequisites. Liferay Installation on Windows. Liferay Installation on Linux. Understanding Liferay Folder Structure. Understanding Logs. Understanding Housekeeping. Understanding The Critical Folders. Introduce Portlet. Creating a Web Page in Liferay. Understanding Liferay CMS. Understanding Liferay Content Creation and Management Basics. Liferay Menu Bar Creation and Management. Liferay Blogs. Creating Polls in Liferay. Liferay Forums. Liferay Users and Group Management"
+    },
+    {
+        "id": "559B3B3FE273485B90E9D6906AABDB9C",
+        "price": 99,
+        "title": "Kids Coding - Introduction to HTML, CSS and JavaScript!",
+        "category_name": "Web Development",
+        "category_id": "01",
+        "rating": {
+            "number": 4,
+            "badge": "Good"
+        },
+        "total_view": 428,
+        "duration": "3 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/63612_8797_5.jpg",
+        "details": "This course helped me a lot for programming, convinced me to do programming and made me understand programming with some fun in it! Overall I don't need to go back and watch any of the courses vids since its explained in detail! Love it!!! It was very easy to understand. I wasn't sure if I should be intimidated by coding or if I should see it as something that is easy, but this course makes it understandable and fun. Thanks."
+    },
+    {
+        "id": "500E84F6DC1E41FDBF04CB3555B1584F",
+        "price": 199,
+        "title": "SQL Server Essentials, from Scratch",
+        "category_name": "Database Design & Development",
+        "category_id": "05",
+        "rating": {
+            "number": 3.9,
+            "badge": "Good"
+        },
+        "total_view": 477,
+        "duration": "3 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/31592_2106_3.jpg",
+        "details": "You learned a little SQL, but you are ready to take the next step and really understand how databases work. Or maybe you are a complete beginner. Here’s a little secret. It’s not that complicated. That’s right. Databases are actually a very simple concept that starts with a simple Table just like a spreadsheet in Excel. Everything else in the database is built around this little concept of a table. With a little SQL Server knowledge, you can retrieve data yourself. You can automate your reporting. You can help management find information and troubleshoot problems. You can even transfer this knowledge to Oracle and MySQL. In this course, veteran consultant, Joey Blue, takes you through the essentials of SQL Server right through advanced topics such as backups, security, and indexes. This course is recommended for all business and IT professionals that want to advance their careers by understanding their corporate database."
+    },
+    {
+        "id": "57E3187C0EE14A82887C161F96FA18F2",
+        "price": 299,
+        "title": "Javascript for Beginners",
+        "category_name": "Web Development",
+        "category_id": "01",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 788,
+        "duration": "8 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/8324_fa84_13.jpg",
+        "details": "Take this Javascript training course and start learning Javascript today. As a business guy I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work. If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
+    },
+    {
+        "id": "BE13B6BAC91F4E3CBDE130A6FE71FE28",
+        "price": 399,
+        "title": "Database Design",
+        "category_name": "Database Design & Development",
+        "category_id": "05",
+        "rating": {
+            "number": 4,
+            "badge": "Good"
+        },
+        "total_view": 588,
+        "duration": "18 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/268632_7a4b_4.jpg",
+        "details": "We start off this course by taking our time to first look at what a database is and how it differs from a spreadsheet, website, filing cabinet, and so forth. We introduce SQL and talk about data definition language and data manipulation language. After about 4 solid videos of explaining databases and SQL, we dive into learning about entities and attributes. We apply all of these concepts to structure tables and relationships. We learn to design all of the relationships and I explain everything in depth. Most of the videos are on my chalkboard, explaining concepts. This is because it helps to fully understand database design before you dive into designing your own database. Once we go over all of the concepts of database design we will be designing databases from start to finish."
+    },
+    {
+        "id": "A0825BA2A30D47D986ECB6F45FDEBD7C",
+        "price": 499,
+        "title": "Build Android Apps with App Inventor 2 - No Coding Required",
+        "category_name": "Mobile Development",
+        "category_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 1788,
+        "duration": "5 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/919872_ed54_6.jpg",
+        "details": "Everybody has a great idea for an app. The problem is, not many of those people have the skills or knowledge required to make that idea a reality. Building an app, regardless of its simplicity or platform, requires certain technical know-how like coding, UX/UI design, and more. App Inventor 2, however, cuts through all of the smoke and allows anyone – even those with no coding experience – to build Android apps from the ground up. This course will teach you how."
+    },
+    {
+        "id": "CB030F79338943EF9461EF9047D4FF35",
+        "price": 299,
+        "title": "Learn Python: The Complete Python Programming Course",
+        "category_name": "Programming Languages",
+        "category_id": "03",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 832,
+        "duration": "18 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
+        "details": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!"
+    },
+    {
+        "id": "C08DA8F6CFA040C4B57ACB302748A5D1",
+        "price": 199,
+        "title": "The Complete React Native + Hooks Course",
+        "category_name": "Mobile Development",
+        "category_id": "02",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 958,
+        "duration": "12 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/706020_6d7c_3.jpg",
+        "details": "If you're tired of spinning your wheels learning Swift or Android, this is the course for you. Authentication? You will learn it.  Hooks? Included.  Navigation? Of course! This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, 'props', 'state', and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it."
+    },
+    {
+        "id": "4B1ED7C5063F462A9FEC2D96DF716E0C",
+        "price": 199,
+        "title": "NoSQL: Neo4j and Cypher",
+        "category_name": "Database Design & Development",
+        "category_id": "05",
+        "rating": {
+            "number": 4,
+            "badge": "Good"
+        },
+        "total_view": 848,
+        "duration": "8 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/493288_287c_2.jpg",
+        "details": "I wanted to make querying graph data not only fun, but easy to learn, understand and use with this easy to follow hands on course for developers and in under 3 hours! Neo4js' Cypher language and property graph model is easy to understand and handle, especially for object oriented and relational developers."
+    },
+    {
+        "id": "4D895D7461E2453DAF6CBD0A19AD2846",
+        "price": 99,
+        "title": "Android Material Design",
+        "category_name": "Mobile Development",
+        "category_id": "02",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "total_view": 781,
+        "duration": "8 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/598520_8095_3.jpg",
+        "details": "Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. This course talks about all the important material design specifications, colors, design guidelines, and also using material widgets along with material themes and concepts. Curious about Android Material Design? This is the your final stop where you will get information regarding material design specifications and the related widgets being used with material design themes. The best part of this course is that you will learn to make several complete android demo apps from scratch - two major apps and several small apps - based on material design guidelines. Enhance your application user interface designing skills by implementing all new materialistic features introduced in Android Lollipop 5.0. Styling of Android Application is very important and one of the most critical feature in designing the app. To make this difficult task easy, I have come up with this course of Android Material Design, which begins with the basics of the material design and proceeds with covering some really complicated and most interesting stuffs like Android Material Design Animation. We will also dive into the material design support library and implement it in our demo applications."
+    },
+    {
+        "id": "81843A18D1984A018B2DF6B86A681304",
+        "price": 99,
+        "title": "Wix Master Course: Make A Website with Wix",
+        "category_name": "No-Code Development",
+        "category_id": "06",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "total_view": 5148,
+        "duration": "4 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/1223634_e5b9_4.jpg",
+        "details": "Create a Wix Website from start to finish in 1 Day. Learn how to plan for creating your website (organizing your wording & photos). Learning the basic features of Wix and the advanced features of Wix. Learn what search engine optimization is (SEO) and how you can be found on Google, Yahoo, etc. Learn how to maintain your website and keep it up to date"
+    }
+]
